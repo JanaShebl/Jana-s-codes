@@ -1,0 +1,144 @@
+// sheet 1
+// problem A 
+/*
+#include <iostream>
+#include<iomanip>
+#include<cmath>
+#include<algorithm>
+using namespace std;
+
+int main() {
+    string s;
+    cin >> s;
+    cout << "Hello, " << s;
+    return 0;
+}
+*/
+
+// problem B
+/*
+int main() {
+    int n;
+    long long n2;
+    char n3;
+    float n4;
+    double n5;
+    cin >> n >> n2 >> n3 >> n4 >> n5;
+    cout << n << endl << n2 << endl << n3 << endl << n4 << endl << n5 << endl;
+    return 0;
+}
+*/
+
+// problem C
+/*
+#include <iostream>
+#include<iomanip>
+#include<cmath>
+#include<algorithm>
+using namespace std;
+ 
+int main()
+{
+    long long n,m;
+    cin>>n>>m;
+    cout<<n<<" "<<"+"<<" "<<m<<" "<<"="<<" "<<n+m<<endl;
+    cout<<n<<" "<<"*"<<" "<<m<<" "<<"="<<" "<<n*m<<endl;
+    cout<<n<<" "<<"-"<<" "<<m<<" "<<"="<<" "<<n-m<<endl;
+    return 0;
+}
+*/
+
+// problem D
+/*
+#include <iostream>
+#include<iomanip>
+#include<cmath>
+#include<algorithm>
+using namespace std;
+
+int main()
+{
+    long long a,b,c,d,x=0;
+    cin>>a>>b>>c>>d;
+    x=(a*b)-(c*d);
+    cout<<"Difference = "<<x;
+    return 0;
+}
+*/
+
+// problem E
+/*
+#include <iostream>
+#include<iomanip>
+#include<cmath>
+#include<algorithm>
+using namespace std;
+
+int main()
+{
+    double r,pi=3.141592653,area=0;
+    cin>>r;
+    area=r*r*pi;
+    cout << fixed << setprecision(9)<<area;
+    return 0;
+}
+*/
+
+// problem F
+/*
+#include <iostream>
+#include<iomanip>
+#include<cmath>
+#include<algorithm>
+using namespace std;
+
+int main()
+{
+    long long n,m,n2,m2;
+    cin>>n>>m;
+    n2=n%10;
+    m2=m%10;
+    cout<<n2+m2;
+    return 0;
+}
+*/
+
+// problem G
+*/
+#include <iostream>
+#include<iomanip>
+#include<cmath>
+#include<algorithm>
+using namespace std;
+
+int main()
+{
+    long long n,sum =0;
+    cin>>n;
+    sum = n * (n + 1) / 2;
+    cout<<sum;
+    return 0;
+}
+*/
+
+// problem H 
+*/
+#include <iostream>
+#include<iomanip>
+#include<cmath>
+#include<algorithm>
+#include<string>
+using namespace std;
+
+int main()
+{
+    float a,b;
+    float res=0;
+    cin>>a>>b;
+    res=a/b;
+    cout<<"floor"<<" "<<a<<" "<<"/"<<" "<<b<<" "<<"="<<" "<<floor(res)<<endl;
+    cout<<"ceil"<<" "<<a<<" "<<"/"<<" "<<b<<" "<<"="<<" "<<ceil(res)<<endl;
+    cout<<"round"<<" "<<a<<" "<<"/"<<" "<<b<<" "<<"="<<" "<<round(res)<<endl;
+    return 0;
+}
+*/
