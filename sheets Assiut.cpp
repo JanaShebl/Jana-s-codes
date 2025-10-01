@@ -1,6 +1,6 @@
 // sheet 1
 // problem A 
-/*
+
 #include <iostream>
 #include<iomanip>
 #include<cmath>
@@ -13,10 +13,10 @@ int main() {
     cout << "Hello, " << s;
     return 0;
 }
-*/
+
 
 // problem B
-/*
+
 int main() {
     int n;
     long long n2;
@@ -27,10 +27,10 @@ int main() {
     cout << n << endl << n2 << endl << n3 << endl << n4 << endl << n5 << endl;
     return 0;
 }
-*/
+
 
 // problem C
-/*
+
 #include <iostream>
 #include<iomanip>
 #include<cmath>
@@ -46,10 +46,10 @@ int main()
     cout<<n<<" "<<"-"<<" "<<m<<" "<<"="<<" "<<n-m<<endl;
     return 0;
 }
-*/
+
 
 // problem D
-/*
+
 #include <iostream>
 #include<iomanip>
 #include<cmath>
@@ -64,10 +64,10 @@ int main()
     cout<<"Difference = "<<x;
     return 0;
 }
-*/
+
 
 // problem E
-/*
+
 #include <iostream>
 #include<iomanip>
 #include<cmath>
@@ -82,10 +82,10 @@ int main()
     cout << fixed << setprecision(9)<<area;
     return 0;
 }
-*/
+
 
 // problem F
-/*
+
 #include <iostream>
 #include<iomanip>
 #include<cmath>
@@ -101,10 +101,10 @@ int main()
     cout<<n2+m2;
     return 0;
 }
-*/
+
 
 // problem G
-*/
+
 #include <iostream>
 #include<iomanip>
 #include<cmath>
@@ -119,10 +119,10 @@ int main()
     cout<<sum;
     return 0;
 }
-*/
+
 
 // problem H 
-*/
+
 #include <iostream>
 #include<iomanip>
 #include<cmath>
@@ -141,4 +141,4 @@ int main()
     cout<<"round"<<" "<<a<<" "<<"/"<<" "<<b<<" "<<"="<<" "<<round(res)<<endl;
     return 0;
 }
-*/
+
