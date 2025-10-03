@@ -1,3 +1,12 @@
+'''
+      ██╗ █████╗ ███╗   ██╗ █████╗
+      ██║██╔══██╗████╗  ██║██╔══██╗
+      ██║███████║██╔██╗ ██║███████║
+ ██   ██║██╔══██║██║╚██╗██║██╔══██║
+ ╚█████╔╝██║  ██║██║ ╚████║██║  ██║
+  ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+'''
+
 """employee_data = {
 "John": {"age": 30, "department": "HR", "salary": 5000},
 "Alice": {"age": 25, "department": "Finance", "salary": 6000},
@@ -235,3 +244,4 @@ calculate_area(radius)'''
 radius=5
 
 calculate_circumference(radius)'''
+
